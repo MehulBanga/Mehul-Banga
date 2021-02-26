@@ -236,6 +236,13 @@ body
     padding-bottom: 20px;
 }
 
+.services-box .fa-bar-chart
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
 .services-box h4
 {
     margin: 3px;
